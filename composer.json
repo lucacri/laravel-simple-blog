@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "graham-campbell/markdown": "~6.0",
+    "graham-campbell/markdown": "~11.0",
     "laracasts/flash": "^2.0",
     "illuminate/config": "~5.0",
     "illuminate/http": "~5.0"
